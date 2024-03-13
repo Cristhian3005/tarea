@@ -1,0 +1,128 @@
+.fondo{
+    background-color: tan;
+    margin: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: center;
+}
+.principal{
+    background-color: rgb(238, 166, 78);
+    padding: 20px;
+    width: 300px;
+    height: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin: 20px;
+    position: static;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    border-radius: 20px;
+
+}
+.principal2{
+    background-color: chocolate;
+    padding: 20px;
+    width: 300px;
+    height: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin: 20px;
+    position: static;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    border-radius: 20px;
+}
+.principal3{
+    background-color: darkorange;
+    padding: 20px;
+    width: 300px;
+    height: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin: 20px;
+    position: static;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-around;
+    border-radius: 20px;
+}
+.caja{
+    background-color: red;
+    margin: 10px;
+    flex-direction: column;
+    width: 130px;
+    height: 220px;
+    display: inline-block;
+    text-align: center;
+    position: static;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    flex-grow: 2;
+    order: 1;
+}
+.caja1{
+    background-color: green;
+    margin: 10px;
+    flex-direction: column;
+    width: 70px;
+    height: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    padding: 5px;
+    flex-grow: 2;
+    order: 1;
+    position: static;
+    display: inline-block;
+    text-align: center;
+}
+.caja2{
+    background-color: yellow;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 90px;
+    height: 180px;
+    text-align: center;
+    flex-direction: column;
+    display: inline-block;
+    position: static;
+    flex-grow: 2;
+    order: 1;
+}
+.caja3{
+    background-color: yellow;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 280px;
+    height: 80px;
+    text-align: center;
+    display: inline-block;
+    position: static;
+    flex-grow: 2;
+    order: 1;
+}
+.caja4{
+    background-color: yellow;
+    margin: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    width: 280px;
+    height: 80px;
+    text-align: center;
+    display: inline-block;
+    position: static;
+    flex-grow: 2;
+    order: 1;
+}
+p{
+    font-size: 30px;
+}
